@@ -1,6 +1,10 @@
 # Retro QBasic Projects Collection
 
-Collection de projets développés en **QBasic / QuickBasic** par Asher256.
+- Site web: https://qbworld.asher256.com/
+
+# Introduction
+
+Collection de projets développés en **QBasic / QuickBasic** par [Asher256](https://www.asher256.com/).
 
 Ce dépôt rassemble plusieurs jeux, démos graphiques et outils musicaux créés au fil des années autour de la scène QBasic francophone.
 
