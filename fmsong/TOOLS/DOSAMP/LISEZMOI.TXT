@@ -1,0 +1,10 @@
+=======
+DOSAMP
+=======
+
+Auteur: Asher256 (Thunder Software)
+Version: 1.3
+Date: Aout 2001
+
+DosAmp est un lecteur de musique qui peut jouer les fichier *.fms crees a
+l'aide du tracker FM-Song.

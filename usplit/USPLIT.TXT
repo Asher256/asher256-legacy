@@ -1,0 +1,95 @@
+=-=-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Ultra Splitter v2.1
+Copyright (c) Asher256
+Thunder software 2000-2001
+URL: https://qbworld.asher256.com
+=-=-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+# Amélioration du Texte
+
+1. Clause de non-responsabilité
+-------------------------------
+L'AUTEUR NE PEUT ÊTRE TENU RESPONSABLE DES DOMMAGES OU INCIDENTS
+ÉVENTUELS CAUSÉS PAR CE PROGRAMME OU TOUTE AUTRE ASPECT LIÉ À VOTRE
+UTILISATION. CE LOGICIEL EST DISTRIBUÉ EN MODE "FREEWARE" ET PEUT ÊTRE
+LIBREMENT DIFFUSÉ SUR TOUS LES SITES DE LOGICIELS "FREEWARES" ET
+"SHAREWARES" À CONDITION QU'IL SOIT ACCOMPAGNÉ DE CE DOCUMENT.
+
+2. Introduction
+---------------
+Usplit est un programme conçu pour diviser des fichiers en plusieurs
+parties, facilitant ainsi leur stockage sur des disquettes de 1,44 Mo,
+par exemple, lorsque vous téléchargez une archive ZIP de 6 Mo. Ce qui
+distingue Usplit, c'est qu'il génère également un fichier *.bat
+qui vous permet de réassembler les parties sans avoir à réinstaller le
+programme sur un autre ordinateur, contrairement à de nombreux autres
+logiciels de division de fichiers. Vous pouvez ainsi gérer vos
+fichiers divisés plus facilement, car ils restent accessibles sans
+être directement copiés sur des disquettes, ce qui simplifie la
+récupération en cas de disquette défectueuse. Vous éviterez ainsi le
+message Windows désagréable : "Windows ne peut pas lire les données du
+lecteur A:".
+
+3. Configuration requise
+-------------------------------
+Un processeur 386DX ou supérieur et MS-DOS.
+C'est tout ce dont vous avez besoin !
+
+4. Nouveautés de la version 2.x...
+-----------------------------------
+- Intégration d'un nouvel algorithme qui améliore la vitesse de
+  traitement d'environ 98 % par rapport à la version 1.0. Alors que la
+  version 1.0 mettait 3 minutes pour diviser un fichier de 1 Mo sur un
+  P100, la version 2.0 réalise la même opération en seulement 5
+  secondes. Une avancée remarquable, n'est-ce pas ?
+- Correction de quelques bugs, notamment celui de la mémoire épuisée
+  en cas de fichiers trop volumineux.
+- Possibilité de diviser un fichier directement depuis l'invite de
+  commande MSDOS en utilisant "usplit.exe <fichier> <divisions>".
+
+5. Utilisation
+--------------
+Son utilisation est simple : il vous suffit de spécifier le fichier à
+diviser et le nombre de divisions souhaité. Par exemple, si vous
+souhaitez diviser le fichier JEU.EXE en deux :
+- Le programme vous demande d'abord le nom du fichier.
+  Répondez : "jeu.exe".
+- Ensuite, il vous demande combien de divisions vous
+  souhaitez. Indiquez : "2".
+
+Il génère alors deux fichiers :
+- jeu.001
+- jeu.002
+
+Ensuite, un programme BATCH nommé unsplit.bat est créé. Pour
+réassembler les parties, placez "jeu.001" dans la disquette 1 avec
+"unsplit.bat", et dans la disquette 2, placez le fichier
+"jeu.002". Copiez ensuite les fichiers dans le même répertoire et
+lancez "unsplit.bat". Simple, n'est-ce pas ?
+
+Vous pouvez également utiliser Usplit directement depuis votre invite
+de commande MS-DOS :
+```shell
+usplit.exe <fichier.ext> <divisions>
+```
+
+6. Remarques importantes
+------------------------
+- Nous vous encourageons à le partager avec tous vos amis. Si vous
+  êtes webmestre d'un site dédié aux utilitaires, FREEWARES ou
+  SHAREWARES, n'hésitez pas à l'ajouter à votre liste de fichiers.
+- Le programme doit toujours être distribué avec ce document. Il est
+  interdit de le supprimer.
+- Ce logiciel a été développé avec Microsoft QuickBasic v4.5.
+
+7. Contact
+----------
+Si vous avez des questions, des critiques, des signalements de bugs ou
+toute autre demande, n'hésitez surtout pas à nous contacter par
+e-mail.
+
+Merci de votre intérêt pour Usplit.
+
+N'oubliez pas de visiter QBworld: "https://qbworld.asher256.com" le TOP francophone
+de programmation Qbasic.
+

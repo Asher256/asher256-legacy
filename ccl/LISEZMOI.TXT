@@ -1,0 +1,62 @@
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=--=-=-=-=-=-
+CCL 4.0
+Copyright (c) Asher256, Thunder Software 2001
+
+Auteur: Asher256
+URL:    https://qbworld.asher256.com/
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=--=-=-=-=-=-
+
+CCL 4.0 (août 2001)
+
+Description :
+~~~~~~~~~~~~~
+CCL est un programme de chiffrement/déchiffrement conçu pour
+renforcer la sécurité de vos fichiers, qu'ils soient au format TXT,
+HTML, EXE, ZIP, ou tout autre format compatible avec une clé de
+chiffrement. Il est essentiel de conserver précieusement votre clé,
+car sa perte pourrait avoir des conséquences indésirables.
+
+Il est important de noter que la même clé est utilisée à la fois pour
+le chiffrement et le déchiffrement.
+
+License:
+~~~~~~~~
+Ce programme est un logiciel libre ; vous pouvez le redistribuer ou le
+modifier suivant les termes de la GNU General Public License telle que
+publiée par la Free Software Foundation ; soit la version 3 de la
+licence, soit (à votre gré) toute version ultérieure.
+
+Ce programme est distribué dans l'espoir qu'il sera utile, mais SANS
+AUCUNE GARANTIE ; sans même la garantie tacite de QUALITÉ MARCHANDE ou
+d'ADÉQUATION à UN BUT PARTICULIER. Consultez la GNU General Public
+License pour plus de détails. 
+
+Vous devez avoir reçu une copie de la GNU General Public License en
+même temps que ce programme ; si ce n'est pas le cas, consultez
+<http://www.gnu.org/licenses>.
+
+Nouveautés de la version 4.0 :
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Cette version introduit un nouvel algorithme qui améliore
+considérablement la vitesse de traitement. Alors que CCL 3.5
+nécessitait 3 minutes pour chiffrer un fichier de 700 Ko, CCL
+4.0 réalise la même opération en seulement 10 secondes. Cette avancée
+significative vous permet désormais de chiffrer vos fichiers de
+manière efficace et rapide.
+
+De plus, vous avez désormais la possibilité de chiffrer vos fichiers
+en ligne de commande en utilisant la syntaxe suivante :
+CCL.EXE fichier.ext clef
+
+Si vous préférez éviter d'afficher la clé en clair, un message
+apparaîtra, masquant la clé avec des étoiles. Cela peut s'avérer utile
+lorsque vous êtes en présence de personnes que vous ne souhaitez pas
+voir votre code de chiffrement.
+
+Astuce :
+~~~~~~~
+Pour une utilisation plus pratique, copiez le fichier CCL.EXE dans le
+répertoire "command" de Windows (habituellement situé à
+c:\windows\command). Cette action vous permettra d'exécuter la
+commande "CCL fichier.ext clef" depuis n'importe quel répertoire sans
+avoir à spécifier le chemin complet vers le fichier exécutable.

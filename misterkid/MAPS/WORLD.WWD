@@ -1,0 +1,15 @@
+"stage1-1.map",0,"intro1.qbm","mario.fms",0
+"stage1-2.map",0,"","mario.fms",0
+"stage1-3.map",1,"","mario.fms",0
+"stage2-1.map",2,"intro2.qbm","donkey.fms",1
+"stage2-2.map",2,"","donkey.fms",1
+"stage2-3.map",2,"","donkey.fms",1
+"stage3-1.map",0,"intro3.qbm","groove.fms",2
+"stage3-2.map",0,"","groove.fms",2
+"stage3-3.map",1,"","groove.fms",2
+"stage4-1.map",0,"intro4.qbm","soussol.fms",4
+"stage4-2.map",0,"","soussol.fms",4
+"stage4-3.map",0,"","soussol.fms",4
+"stage5-1.map",0,"intro5.qbm","serpent.fms",2
+"stage5-2.map",0,"","serpent.fms",2
+"stage5-3.map",0,"","desert.fms",2

@@ -1,0 +1,50 @@
+====================================
+Quick Basic Super Mario (QBSMario)
+Auteur: Asher256
+====================================
+
+============
+Introduction
+============
+Je suis fier de vous présenter QBSMario, mon tout premier jeu vidéo
+graphique. Ce jeu a joué un rôle important car il m'a motivé à
+poursuivre la programmation en QBasic. QBSMario est relativement court
+(il s'agit simplement d'une démonstration) et il ne comporte ni
+ennemis ni défilement.
+
+À sa sortie en 2000, QBSMario a suscité l'enthousiasme au sein de la
+communauté QBasic francophone, car il n'existait alors aucun jeu
+comparable créé en QBasic dans la scène francophone. Depuis lors, de
+nombreux autres jeux, inspirés par des titres comme QBSMario, ont vu
+le jour en QBasic (comme MisterKid, par exemple). Toutefois, QBSMario
+a laissé une empreinte dans la scène Quick Basic francophone.
+
+=======
+License
+=======
+Ce programme est un logiciel libre ; vous pouvez le redistribuer ou le
+modifier suivant les termes de la GNU General Public License telle que
+publiée par la Free Software Foundation ; soit la version 3 de la
+licence, soit (à votre gré) toute version ultérieure.
+
+Ce programme est distribué dans l'espoir qu'il sera utile, mais SANS
+AUCUNE GARANTIE ; sans même la garantie tacite de QUALITÉ MARCHANDE ou
+d'ADÉQUATION à UN BUT PARTICULIER. Consultez la GNU General Public
+License pour plus de détails. 
+
+Vous devez avoir reçu une copie de la GNU General Public License en
+même temps que ce programme ; si ce n'est pas le cas, consultez
+<http://www.gnu.org/licenses>.
+
+=====
+Liens
+=====
+- Page web sur QBSMario:
+  https://qbworld.asher256.com/product.php?programme=qbsmario
+
+- Si vous voulez telecharger mes autres programmes,
+  visitez QBWorld: https://qbworld.asher256.com/
+
+- Je vous encourage aussi a essayer le jeu MisterKid
+  (Bien plus avance que QBSMario):
+  https://qbworld.asher256.com/misterkid.php

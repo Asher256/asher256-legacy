@@ -1,0 +1,23 @@
+------------------------------------------------
+Flying War
+
+Auteur: Asher256
+Date: 2000
+Url:   https://qbworld.asher256.com
+------------------------------------------------
+
+Dans ce jeu ASCII, vous vous retrouvez à bord d'une fusée spatiale qui
+a perdu le contrôle au milieu de l'immensité de l'espace !
+
+Votre objectif est de manoeuvrer la fusée en utilisant les touches
+directionnelles pour vous déplacer vers la gauche et la droite.
+
+Commandes clavier:
+- q : Quitter
+- Touche directionnelle gauche : Déplacer la fusée vers la gauche
+- Touche directionnelle droite : Déplacer la fusée vers la droite
+
+Ce jeu est écrit en QuickBasic 4.5 par Asher256 en 2000.
+
+Merci d'avoir essayé Flying Way !
+ 
